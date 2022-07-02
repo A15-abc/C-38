@@ -1,2 +1,2 @@
-# C-38
-Arrow keys to move your car!
+# C38RV_SpeedRacer_TeacherActivity
+Teacher Activity
